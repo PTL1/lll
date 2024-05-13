@@ -1,0 +1,80 @@
+
+
+body {
+    padding-top: 60px;
+    background-position: center;
+    background-size: cover;
+    height: 88.5vh;
+    background-image: url("https://sakolraj.ac.th/wp-content/uploads/2023/08/370476684_870070054821710_6786655140272671611_n.jpg");
+}
+
+
+
+.box{
+  
+    border: 2px solid white;
+    color: white;
+    padding-top: 0px;
+    background-color: rgba(0, 0, 0, 0.8);
+    max-width: 700px;
+    height:470px;
+    margin: auto;
+    
+    
+}
+
+
+
+
+.text_head {
+    text-decoration: solid;
+    width: 40%;
+    font-family: "Kanit", sans-serif;
+    font-size: 50px;
+    text-align: center;
+    margin: auto;
+    
+}
+
+
+.text {
+    
+    font-family: "Kanit", sans-serif;
+    margin-left: 15%;
+    font-size: 25px;
+
+}
+
+.id_name  {
+    margin-top: 5px;
+    margin-bottom: 20px;
+    font-family: "Kanit", sans-serif;
+    margin-left: 15%;
+    font-size: 25px;
+}
+
+.price {
+    margin-top: 5px;
+    margin-bottom: 20px;
+    font-family: "Kanit", sans-serif;
+    margin-left: 15%;
+    font-size: 25px;
+}
+
+.btn {
+    font-family: "Kanit", sans-serif;
+    background-color: rgb(42, 66, 184);
+    font-size: 20px;
+    width: 115px;
+    height: 40px;
+    border: 0px;
+    color:  white;
+    border-radius: 5px;
+    margin-left: 15%;
+
+    transition: all 0.2s ease;
+}
+
+.btn:hover {
+    transform: scale(1.1,1.1);
+}
